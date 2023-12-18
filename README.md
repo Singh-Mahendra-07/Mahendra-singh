@@ -1,6 +1,6 @@
 # Mahendra-singh
 
-<h1 align="center">Hi 👋, I'm Mahendra Singh</h1>
+<h1 align="center">Hi 👋, I'm Mahendra_Singh</h1>
 <h3 align="center">A passionate developer from India</h3>
 <img align="right" alt = "coding" width"600" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,8 +13,6 @@
 - 💬 Ask me about **Java, Basic Frontend**
 
 - 📫 How to reach me **mahendra3201@gmail.com**
-
-- ⚡ Fun fact **I don't Know How to make Friends**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
